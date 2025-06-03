@@ -4,6 +4,6 @@ title: Michael Schwarz
 
 # michaelschwarz.github.io
 
-## {{page.title}}
+## Title {{page.title}}
 
 Hello world!
