@@ -6,4 +6,4 @@ title: Home
 
 ## Title {{page.title}}
 
-Hello world!
+Hello world, this is a test!
