@@ -1,5 +1,5 @@
 ---
-title: Michael Schwarz
+title: Home
 ---
 
 # michaelschwarz.github.io
